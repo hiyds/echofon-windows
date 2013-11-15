@@ -1,0 +1,74 @@
+<!ENTITY echofon.showpopup "팝업 표시">
+<!ENTITY echofon.reload "재장전">
+<!ENTITY echofon.markAllAsRead "읽기 모두 표시">
+<!ENTITY echofon.preference "설정...">
+<!ENTITY echofon.removeAds "광고 제거...">
+<!ENTITY echofon.logout "로그아웃">
+<!ENTITY echofon.exit "나가기">
+<!ENTITY echofon.checkUpdate "업데이트 검사...">
+<!ENTITY echofon.aboutEchofon "Echofon에 대해">
+<!ENTITY echofon.changeAccount.tooltip "계정 변경을 클릭">
+<!ENTITY echofon.copyTweet "복사">
+<!ENTITY echofon.retweet "리트윗...">
+<!ENTITY echofon.retweetWithComment "인용하기">
+<!ENTITY echofon.replyAll "모든 댓글">
+<!ENTITY echofon.deleteTweet "트윗 삭제...">
+<!ENTITY echofon.openTweetInTab "새 탭에서 트윗 열기">
+<!ENTITY echofon.clickToStart "시작을 클릭">
+<!ENTITY echofon.copyMessage "복사">
+<!ENTITY echofon.deleteMessage "메세지 삭제...">
+<!ENTITY echofon.olderPosts "나아가 트윗">
+<!ENTITY echofon.reply "댓글">
+<!ENTITY echofon.sendMessage "메세지 보내기">
+<!ENTITY echofon.block "차단...">
+<!ENTITY echofon.reportSpam "스팸 신고...">
+<!ENTITY echofon.itsYou "그건 너!">
+<!ENTITY echofon.chooseList "목록 선택...">
+<!ENTITY echofon.loadingList "목록 읽는 중...">
+<!ENTITY echofon.tweetThisPage "이 페이지 트윗하기">
+<!ENTITY echofon.postWithLink "링크 게시">
+<!ENTITY echofon.copyURL "URL 복사">
+<!ENTITY echofon.searchMention "언급 검색">
+<!ENTITY echofon.postWithTag "이 태그와 함께 게시">
+<!ENTITY echofon.muteThisUser "사용자 무언">
+<!ENTITY echofon.muteThisTag "이 태그 무언">
+<!ENTITY echofon.muteThisApp "이 어플 무언">
+<!ENTITY echofon.cancelButton "취소">
+<!ENTITY echofon.sendButton "보내다">
+<!ENTITY echofon.tweetButton "트윗">
+<!ENTITY echofon.followList "팔로우 목록">
+<!ENTITY echofon.yourSavedSearches "저정된 검색">
+<!ENTITY echofon.trendingTopics "화제거리">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.label "파일">
+<!ENTITY fileMenu.close "닫기">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewMenu.label "보기">
+<!ENTITY viewMenu.goHome "집">
+<!ENTITY viewMenu.goMentions "언급">
+<!ENTITY viewMenu.goMessages "메시지">
+<!ENTITY viewMenu.goLists "목록">
+<!ENTITY viewMenu.goSearch "검색">
+<!ENTITY viewMenu.refresh "탐라 새로고침">
+<!ENTITY viewMenu.jumpToUnread "읽지않고 이동">
+<!ENTITY viewMenu.markAsRead "읽은 상태로 표시">
+<!ENTITY tweetMenu.accesskey "T">
+<!ENTITY tweetMenu.label "트윗">
+<!ENTITY tweetMenu.addImage "이미지 추가...">
+<!ENTITY tweetMenu.insertURL "현재 탭 URL을 삽입">
+<!ENTITY tweetMenu.addGeoLocation "지리적 위치 삽입...">
+<!ENTITY userMenu.accesskey "U">
+<!ENTITY userMenu.label "사용자">
+<!ENTITY userMenu.gotoUser "사용자 보기...">
+<!ENTITY userMenu.myProfile "내 자기 소개">
+<!ENTITY prevAccountCmd.accesskey "p">
+<!ENTITY nextAccountCmd.accesskey "n">
+<!ENTITY refreshCmd.accesskey "r">
+<!ENTITY jumpToUnreadCmd.accesskey "j">
+<!ENTITY markAsReadCmd.accesskey "m">
+<!ENTITY myProfileCmd.accesskey "p">
+<!ENTITY gotoUserCmd.accesskey "u">
+<!ENTITY insertURLCmd.accesskey "l">
+<!ENTITY addImageCmd.accesskey "i">
+<!ENTITY addGeoLocationCmd.accesskey "g">
+<!ENTITY closeCmd.accesskey "x">
